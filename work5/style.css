@@ -1,0 +1,41 @@
+h1 {
+    color: blue;
+  margin: center;
+}
+h2 {
+  color:red;
+  margin: center;
+}
+h3{
+  color:green;
+}
+p{
+  color:purple;
+}
+p, h2, h3, li {
+margin-left: 600px;
+}
+h4{
+margin-left: 750px;
+}
+form{
+margin-left: 400px;
+}
+li{
+color:brown;
+}
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.subscribe-button:hover {
+            background-color: #007bff;
+            color: #fff;
+}
+article {
+            text-align: left;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
